@@ -40,6 +40,7 @@ jspm_packages
 .baseDir.*
 --lib
 --target
+.tscache
 
 # Tests
 tests/compiled
